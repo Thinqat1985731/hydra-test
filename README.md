@@ -1,5 +1,3 @@
-<a id="readme-top"></a>
-
 # hydra-test <!-- omit in toc -->
 
 Facebook AI Researchが公開しているパラメーター管理ツールhydraを試しに使ってみたコード。ベースとして利用したのは[これ](https://github.com/rasbt/python-machine-learning-book-3rd-edition/tree/master/ch12)。
@@ -39,7 +37,7 @@ python -m venv .venv
    ./setup.ps1
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 ## Usage
 
@@ -50,7 +48,7 @@ cd src
 ./main.py
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
 
 ## Contact
 
@@ -99,4 +97,4 @@ cd src
   </a>
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#">back to top</a>)</p>
